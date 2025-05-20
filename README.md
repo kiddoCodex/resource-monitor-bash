@@ -15,6 +15,6 @@ This is a basic Bash script that logs system resource usage (CPU, memory and dis
 
 ## How To Run
 
-chmod +x monitor.sh # Make script executable
-./monitor.sh        # Run the script
-cat output.log      # View the log output
+chmod +x monitor.sh     # Make script executable
+./monitor.sh            # Run the script
+cat output.log          # View the log output
